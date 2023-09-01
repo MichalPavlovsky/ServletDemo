@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="SimpleServlet getparameter">
+    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="SimpleServlet formular">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/formular.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/formular.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693213448345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SimpleServlet formular">
+      <created>1693312309931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693312309931</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="SimpleServlet getparameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleServlet getparameter" />
+    <MESSAGE value="SimpleServlet formular" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleServlet formular" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
