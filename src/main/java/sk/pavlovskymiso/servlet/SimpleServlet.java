@@ -1,5 +1,6 @@
 package sk.pavlovskymiso.servlet;
 
+import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -25,11 +26,15 @@ public class SimpleServlet extends HttpServlet {
         out.printf("priezvisko: %s", priezvisko);
 
         HttpSession session = req.getSession();
+        ServletContext context = req.getServletContext();
         if (meno!=null && !meno.isEmpty()) {
             session.setAttribute("ulozeneMeno", meno);
+            context.setAttribute("kontextUlozeneMeno", meno);
         }
         out.println("<br>");
         out.printf("ulozene meno: %s", session.getAttribute("ulozeneMeno"));
+        out.println("<br>");
+        out.printf("kontext ulozene meno: %s", context.getAttribute("kontextUlozeneMeno"));
 
         out.println("</body> </html>");
 
