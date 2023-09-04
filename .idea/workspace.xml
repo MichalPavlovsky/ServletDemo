@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="SimpleServlet formular">
+    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="context">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,14 +111,22 @@
       <option name="project" value="LOCAL" />
       <updated>1693312309931</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="context">
+      <created>1693775049561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693775049561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="SimpleServlet getparameter" />
     <MESSAGE value="SimpleServlet formular" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleServlet formular" />
+    <MESSAGE value="context" />
+    <option name="LAST_COMMIT_MESSAGE" value="context" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
