@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="context">
+    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="firstFilter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/filtre/FirstFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/filtre/FirstFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,15 +122,34 @@
       <option name="project" value="LOCAL" />
       <updated>1693775049561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="firstFilter">
+      <created>1693850031533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693850031533</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="SimpleServlet getparameter" />
     <MESSAGE value="SimpleServlet formular" />
     <MESSAGE value="context" />
-    <option name="LAST_COMMIT_MESSAGE" value="context" />
+    <MESSAGE value="firstFilter" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstFilter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
