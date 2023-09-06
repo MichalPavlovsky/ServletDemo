@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="firstFilter">
+    <list default="true" id="c3623c72-d094-48e3-b653-bf0541bde9f6" name="Changes" comment="jsp and filter">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/filtre/FirstFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/filtre/FirstFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/pavlovskymiso/servlet/SimpleServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693850031533</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="jsp and filter">
+      <created>1693925732378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693925732378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +154,8 @@
     <MESSAGE value="SimpleServlet formular" />
     <MESSAGE value="context" />
     <MESSAGE value="firstFilter" />
-    <option name="LAST_COMMIT_MESSAGE" value="firstFilter" />
+    <MESSAGE value="jsp and filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsp and filter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
